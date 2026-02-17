@@ -7,7 +7,7 @@ phases:
   build:
     commands:
       - echo "Copying files to S3..."
-      - aws s3 cp . s3://awbucket1807/demo/ --recursive
+      - aws s3 cp . s3://adamdemobucket123/demo/ --recursive
 
 artifacts:
   files:
