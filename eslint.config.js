@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   {
     files: ["**/*.js"],
     rules: {
@@ -7,3 +7,4 @@ export default [
     }
   }
 ];
+
