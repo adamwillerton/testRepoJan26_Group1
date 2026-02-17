@@ -1,4 +1,6 @@
-"scripts": {
+{
+  "scripts": {
   "lint": "eslint .",
   "test": "jest"
+  }
 }
